@@ -1,5 +1,6 @@
 ## References
-- [ The Role and Anatomy of the Pancreas ](https://www.youtube.com/watch?v=NZ4zcrTzUjA)
+- [The Role and Anatomy of the Pancreas](https://www.youtube.com/watch?v=NZ4zcrTzUjA)
+- [Acute Pancreatitis](https://www.youtube.com/watch?v=inRSjh3bHPg)
 
 ====
 ====
@@ -62,3 +63,21 @@ Tuyến tụy sản xuất ra các hormone quan trọng giúp điều chỉnh l�
 * Enzyme lipase phân hủy các phân tử chất béo nhỏ này thành axit béo và glycerol.
 
 ![](pancreas-1.png)
+
+====
+====
+
+## Tại sao tắc ống mật dẫn đến viêm tụy cấp (Acute Pancreatitis)?
+
+**Ống mật** là một ống nhỏ dẫn dịch mật từ túi mật và gan vào ruột non. Dịch mật giúp tiêu hóa chất béo. Khi **ống mật bị tắc nghẽn**, dịch mật không thể chảy vào ruột non, dẫn đến các vấn đề sau:
+
+**1. Ứ mật:** Dịch mật ứ đọng trong gan và túi mật, gây ra các triệu chứng như đau bụng, buồn nôn, nôn mửa, vàng da, vàng mắt.
+
+![](pancreas-2.png)
+
+**2. Viêm tụy cấp:** Khi dịch mật ứ đọng, nó có thể trào ngược vào ống tụy, kích hoạt các enzyme tiêu hóa trong tụy. Các enzyme này sẽ bắt đầu tiêu hóa chính mô tụy, dẫn đến **viêm tụy cấp**.
+
+![](pancreas-3.png)
+
+**Viêm tụy cấp** là một bệnh lý nguy hiểm, có thể dẫn đến các biến chứng như hoại tử tụy, nhiễm trùng, suy hô hấp, và tử vong.
+
